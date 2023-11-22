@@ -5,7 +5,7 @@ This repository covers the data science project I worked on in high school. I wo
 Link to final presentation: https://dfba632ed2.clvaw-cdnwnd.com/dd903f77cf34fa450440cfbaada6362d/200000126-d7722d7723/blanken_nathan.pptx?ph=dfba632ed2
 
 
-FILE INFORMATION--------------------------------------------------------
+FILE INFORMATION--------------------------------------------------------\n
 THESE ARE NOTES FOR COMMONLY OCCURRING CASES FOR THE SOUTH GEORGIA ISLAND PROJECT THAT TOOK PLACE BETWEEN JUNE 2019 AND MAY 2020 BY Nathan Blanken AND Michael Freilich.
 
 
