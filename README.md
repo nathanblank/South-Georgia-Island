@@ -4,20 +4,21 @@ This repository covers the data science project I worked on in high school. I wo
 
 *Link to final presentation:* https://dfba632ed2.clvaw-cdnwnd.com/dd903f77cf34fa450440cfbaada6362d/200000126-d7722d7723/blanken_nathan.pptx?ph=dfba632ed2
 
+There is about 60 GB of ERA-5 data nad 4 TB of QuikScat data that is not within this repository. Please email nathan@blanken.me for questions.
 
 --------------------------------------------------------FILE INFORMATION--------------------------------------------------------
 
-THESE ARE NOTES FOR COMMONLY OCCURRING CASES FOR THE SOUTH GEORGIA ISLAND PROJECT THAT TOOK PLACE BETWEEN JUNE 2019 AND MAY 2020 BY Nathan Blanken AND Michael Freilich.
+*THESE ARE NOTES FOR COMMONLY OCCURRING CASES FOR THE SOUTH GEORGIA ISLAND PROJECT THAT TOOK PLACE BETWEEN JUNE 2019 AND MAY 2020 BY Nathan Blanken AND Michael Freilich.*
 
 
 
 
-NEW/REFINED VERSUS ORIGINAL ANALYSIS
+*NEW/REFINED VERSUS ORIGINAL ANALYSIS*
 
 Any data files that say "NEW" or "REFINED", should be considered to have been created based on refined ERA-5 plot zoning. This means that the average conditions for the ERA-5 maps were from a 500 km (long) by 200 km (lat) region directly west of the island. If the file does not say "NEW" or "REFINED", assume the ERA-5 averages for each map was calculated based on the entire 2000 km region. 
 
 
-CONFIRMED CASES
+*CONFIRMED CASES*
 
 Any text file that has "CONFIRMED" at the end of it indicates that the text file was looked over to verify that data was not written over by other conditions, wind speeds, wind directions, etc.
 
@@ -25,7 +26,7 @@ Any text file that has "CONFIRMED" at the end of it indicates that the text file
 
 
 
-PRE-MADE TEXT FILES
+*PRE-MADE TEXT FILES*
 
 For any .txt files that have some form of:
 
@@ -54,7 +55,7 @@ Will output the file in the format mentioned directly above.
 
 
 
-Brief description of each program
+*Brief description of each program*
 
 
 2D ERA-5 vs QuikSCAT bias determiner.py - Creates a line graph of all ERA-5 and QuikSCAT elements and plots percent of elements at each speed for each data source.
